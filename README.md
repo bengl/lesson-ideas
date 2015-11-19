@@ -13,3 +13,7 @@ This is an open source list of screencast topics you'd like to see covered on no
   + Basic COMPSCI lessons shown with Node.js
 + Node internals
   + Dive into streams, the event loop, etc
++ Evaluating Node against other backend languages
+ + What is it best for?
+ + Where is it still in its infancy
++ Build a project from start to finish
