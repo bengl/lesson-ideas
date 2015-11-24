@@ -17,3 +17,8 @@ This is an open source list of screencast topics you'd like to see covered on no
  + What is it best for?
  + Where is it still in its infancy
 + Build a project from start to finish
++ Debuggery
+  + Using node-inspector/bugger/`node debug`/etc.
++ Easy ways of getting involved in node core
+  + Docs/tests
+  + Make an PR in the video
